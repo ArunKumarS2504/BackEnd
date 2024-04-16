@@ -1,0 +1,50 @@
+/* .home{
+    display: flex;
+}
+
+.leftPanel{
+ background-color: tomato;
+height: 600px;
+width: 35%;
+cursor: pointer;
+}
+
+.rightPanel{
+    background-color: grey;
+    height: 600px;
+    width: 65%;
+} */
+
+.Appp{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Register{
+    width: 350px;
+    height: 350px;
+    padding: 80px;
+    background-color: #2a2e45;
+
+}
+
+.RegisterContainer{
+    text-align: center;
+    color: aqua;
+   font-family: 'Times New Roman';
+}
+
+.Register-form{
+   margin: 15px;
+}
+
+.email{
+    margin: 15px;
+}
+
+button{
+    margin: 18px;
+}
